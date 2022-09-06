@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "hello %s" & id -u
+printf "hello %s" & logname
